@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(
           title: Text('Magic 8 Ball'),
-          backgroundColor: Colors.red,
+          backgroundColor: Colors.blue[700],
         ),
         body: Home(),
       ),
